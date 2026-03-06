@@ -44,3 +44,7 @@ Average Rating: 3.9
 - Business KPI analysis
 - Dashboard design
 - Data visualisation
+
+  ## Dashboard Preview
+
+![Blinkit Dashboard](blinkit_bi.png)
