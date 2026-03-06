@@ -47,7 +47,7 @@ Average Rating: 3.9
 
   ## Dashboard Preview
 
-![Blinkit Dashboard](blinkit_bi.png)
+![Blinkit Dashboard](blinkit_dashboard.png)
 
 
 
