@@ -40,7 +40,7 @@ The dataset contains information about:
 - Business insights generation
 
  ## Dashboard Preview
-![Zomato Dashboard Excel](Zomato_Analysis_Excel.png)
+-EXCEL PROJECT![Zomato Dashboard Excel](Zomato_Analysis_Excel.png)
 
-![Zomato Dashboard PowerBi](Zomato_Analysis_Dashboard_Powerbi.png)
+-POWERBI PROJECT![Zomato Dashboard PowerBi](Zomato_Analysis_Dashboard_Powerbi.png)
 
