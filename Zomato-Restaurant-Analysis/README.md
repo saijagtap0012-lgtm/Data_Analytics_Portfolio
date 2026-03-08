@@ -32,8 +32,15 @@ The dataset contains information about:
 - Pricing varies significantly across restaurant categories
 - Online delivery options influence restaurant popularity
 
+
 ## Skills Demonstrated
 - Data cleaning in Excel
 - Exploratory data analysis
 - Data visualization
 - Business insights generation
+
+ ## Dashboard Preview
+![Zomato Dashboard Excel](Zomato_Analysis_Excel.png)
+
+![Zomato Dashboard PowerBi](Zomato_Analysis_Dashboard_Powerbi.png)
+
