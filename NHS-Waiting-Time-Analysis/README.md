@@ -3,11 +3,24 @@
 ## Project Description
 This project analyses NHS waiting time data to identify trends, regional differences and operational bottlenecks in healthcare services.
 
+## Project Workflow
+
+1. Data Cleaning – MySQL
+   Raw NHS datasets were cleaned and transformed using SQL queries.
+
+2. Data Analysis – Python
+   The cleaned data was imported into Python using Pandas for further analysis.
+
+3. Visualization
+   Matplotlib and Seaborn were used to create visualizations for insights.
+
 ## Tools Used
-Python
-Pandas
-Matplotlib
-Excel dataset
+
+- MySQL
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Excel
+
 
 ## Skills Demonstrated
 Data Cleaning
