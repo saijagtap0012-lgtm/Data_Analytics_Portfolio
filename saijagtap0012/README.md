@@ -33,4 +33,4 @@ Data Visualization Best Practices
 Business Intelligence Reporting
 
 ## Contact
-LinkedIn: (add your LinkedIn link)
+LinkedIn: www.linkedin.com/in/sai-jagtap-87635a333
