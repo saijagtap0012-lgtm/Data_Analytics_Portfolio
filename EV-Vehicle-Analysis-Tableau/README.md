@@ -24,3 +24,7 @@ Data Visualization
 Dashboard Design
 Exploratory Data Analysis
 Business Insights
+
+
+### Dashboard
+![Electric_Vehicle_Analysis](Electric_vehicle_Analysis_Tableau_.png)
